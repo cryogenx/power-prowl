@@ -1,0 +1,5 @@
+Power-Prowl
+
+A powershell module that allows you to send prowl notifications via powershell
+
+Require Powershell V3
